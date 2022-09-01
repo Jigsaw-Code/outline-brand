@@ -1,10 +1,8 @@
 # outline-brand
 
-TODO: description
+TODO: description.
 
-## guide
-
-[guide](./style_guide.pdf)
+For more information, [download the brand user guide](./user_guide.pdf)!
 
 ## asset gallery
 

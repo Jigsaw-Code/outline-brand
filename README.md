@@ -1,6 +1,6 @@
 # outline-brand
 
-The official repository for Outline's branding. For more information on how to use the Outline brand responsibly, [download the brand user guide](./user_guide.pdf)!
+The official repository for Outline's branding. For more information on how to use the Outline brand responsibly, [download the brand user guide](./outline_brand_user_guide.pdf)!
 
 ## asset gallery
 
